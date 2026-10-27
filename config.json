@@ -1,0 +1,14 @@
+{
+  "pasta_destino": "F:/",
+  "qualidade": "720p (recomendado)",
+  "padrao_nome": "Titulo",
+  "nomes_simples": false,
+  "limpar_titulos": true,
+  "baixar_playlists": true,
+  "subpasta_playlist": true,
+  "ignorar_repetidos": true,
+  "pular_duplicados": true,
+  "incluir_metadados": true,
+  "normalizar_volume": true,
+  "revisar_antes": true
+}
